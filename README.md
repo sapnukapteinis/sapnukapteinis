@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is project is for practice only, learning everything from zero. 
+This project is for practice only, learning everything from zero. 
 
 <!--
 **sapnukapteinis/sapnukapteinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
